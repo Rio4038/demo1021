@@ -2,6 +2,7 @@ import re
 import os
 from collections import defaultdict
 
+#test
 # 入力
 id_file = "ID"
 segment_dir = "./ref_to_kaldi_text"
